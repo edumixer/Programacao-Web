@@ -1,0 +1,187 @@
+body {
+    background-color: white;
+}
+.main {
+    background-color: #EEE;
+}
+
+#somar1{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#somar2{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#somar {
+    font-size: 30px;
+    color: white;
+    width: 60px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#somarL {
+    font-size: 30px;
+    color: white;
+    width: 110px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#subtrair1{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#subtrair2{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#subtrair {
+    font-size: 30px;
+    color: white;
+    width: 60px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#subtrairL {
+    font-size: 30px;
+    color: white;
+    width: 110px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#multiplicar1{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#multiplicar2{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#multiplicar {
+    font-size: 30px;
+    color: white;
+    width: 60px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#multiplicarL {
+    font-size: 30px;
+    color: white;
+    width: 110px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#dividir1{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#dividir2{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+}
+#dividir {
+    font-size: 30px;
+    color: white;
+    width: 60px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+#dividirL {
+    font-size: 30px;
+    color: white;
+    width: 110px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+}
+/* #raiz1{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: #EEE;
+    border: 1px #CCC;
+} */
+
+/* #raiz {
+    font-size: 30px;
+    color: white;
+    width: 160px;
+    height: 70px;
+    background-color: #FF8000;
+    border: 0;
+}
+#raizL {
+    font-size: 30px;
+    color: white;
+    width: 110px;
+    height: 60px;
+    background-color: #FF8000;
+    border: 0;
+} */
+#bAdicao {
+    font-size: 28px;
+    width: 170px;
+    height: 60px;
+}
+#bSub {
+    font-size: 28px;
+    width: 170px;
+    height: 60px;
+}
+#bMulti {
+    font-size: 28px;
+    width: 170px;
+    height: 60px;
+}
+#bDivi {
+    font-size: 28px;
+    width: 170px;
+    height: 60px;
+}
+
+/* 
+        PLACE HOLDER
+*/
+#somar:hover {
+    background-color: #EE5000;
+}
+#subtrair:hover {
+    background-color: #EE5000;
+}
+#multiplicar:hover {
+    background-color: #EE5000;
+}
+#dividir:hover {
+    background-color: #EE5000;
+}

@@ -1,0 +1,218 @@
+body {
+    background-color: #fff;
+}
+
+.mainH{
+    background: #60ce3b;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.mainH:hover{
+    background-color:#02ac00;
+    color:#000;
+}
+
+.main_orange {
+    background: #f3872f;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_orange:hover{
+    background-color:#e26d0d;
+    color:#000;
+}
+
+.main_yellow {
+    background: #f6ec36;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_yellow:hover{
+    background-color:#d6cb0a;
+    color:#000;
+}
+
+.main_pink {
+    background: #ce3cae;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_pink:hover{
+    background-color:#af1b8d;
+    color:#000;
+}
+
+.main18 {
+    background: #0088ff;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main18:hover{
+    background-color:#006dcc;
+    color:#000;
+}
+
+.main17 {
+    background: #00ddff;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main17:hover{
+    background-color:#00c7e6;
+    color:#000;
+}
+
+.main_musgo {
+    background: #0bdd0b;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_musgo:hover{
+    background-color:#0ac50a;
+    color:#000;
+}
+
+.main_gray {
+    background: #67a5ad ;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_gray:hover{
+    background-color:#5b9299;
+    color:#000;
+}
+
+.main_idk {
+    background: #48c27b ;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_idk:hover{
+    background-color: #36a163;
+    color:#000;
+}
+
+.main_ciano {
+    background: #08d1d1 ;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_ciano:hover{
+    background-color: #07b8b8;
+    color:#000;
+}
+
+.main_roxo {
+    background: #d469f5 ;
+    color:#000;
+    padding:10px;
+    transition: 0.3s;
+}
+.main_roxo:hover{
+    background-color: #cd51f3;
+    color:#000;
+}
+.btn-toolbar{
+    padding-left: 155px;
+}
+.n-metal {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #60ce3b ;
+    cursor: pointer;
+    margin: 18px;
+}
+.alcalinos {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    /* width: 96px; */
+    background-color: #f3872f ;
+    cursor: pointer;
+    margin: 18px;
+}
+.semi-metais {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #48c27b ;
+    cursor: pointer;
+    margin: 18px;
+}
+.outros {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #67a5ad ;
+    cursor: pointer;
+    margin: 18px;
+}
+.lantanideos {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #08d1d1 ;
+    cursor: pointer;
+    margin: 18px;
+}
+.gases {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #0088ff ;
+    cursor: pointer;
+    margin: 15px;
+}
+.terrosos {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    /* width: 96px; */
+    background-color: #f6ec36 ;
+    cursor: pointer;
+    margin: 15px;
+}
+.halogenios {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #00ddff ;
+    cursor: pointer;
+    margin: 15px;
+}
+.metais-transicao {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    /* width: 96px; */
+    background-color: #ce3cae ;
+    cursor: pointer;
+    margin: 15px;
+
+}
+.actinidios {
+    border: 0;
+    height: 65px;
+    border-radius: 8px;
+    width: 96px;
+    background-color: #d469f5 ;
+    cursor: pointer;
+    margin: 15px;
+}
