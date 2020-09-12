@@ -1,0 +1,26 @@
+/* .input {
+    margin-left: 6px;
+    margin: 3px;
+} */
+
+
+#bAdd {
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: #088a68;
+}
+#bRemover {
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: #088a68;
+}
