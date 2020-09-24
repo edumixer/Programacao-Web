@@ -1,0 +1,12 @@
+#bVoltar {
+    font-size: 15px;
+    margin-top: 10px ;
+    color: white;
+    border: none;
+    background-color: rgb(245, 31, 31);
+    width: 70px;
+    height: 35px;
+    border-radius: 8px;
+    align-items: center;
+    outline: 0;
+}

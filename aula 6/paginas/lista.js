@@ -1,27 +1,20 @@
-var dados = [];
+var banco = window.localStorage;
 
 $(document).ready(function() {
-    
-    $("#bGravar").click(function() {
-        var nome = $("#tNome").val();
-        var sobrenome = $("#tSobrenome").val();
-        var idade = $("#tIdade").val();
-        var email = $("#tEmail").val();
-        
-        var aux = [];
-        aux.push(nome);
-        aux.push(sobrenome);
-        aux.push(idade);
-        aux.push(email);
-        
-        dados.push(aux);
-        fLocalMostraDados();
+    fLocalMostraDados();
+
+    $("#bVoltar").click(function() {
+
+        window.location.href = "../parte_1/index.html"
     });
 });
 
 function fLocalMostraDados() {
-
+    var dados = JSON.parse(banco.getItem("dadosUsuarios"));
     $("#tableUsuarios").html("");
+    if( dados == null) {
+        return;
+    }
 
     for( var i = 0; i < dados.length; i++) {
         var conteudo = "";

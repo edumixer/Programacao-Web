@@ -1,0 +1,72 @@
+.caderneta {
+    margin: 35px;
+}
+
+#bGravar {
+    font-size: 15px;
+    margin-top: 10px ;
+    color: white;
+    border: none;
+    background-color: rgb(10, 165, 30);
+    width: 70px;
+    height: 35px;
+    border-radius: 8px;
+    align-items: center;
+    outline: 0;
+}
+#bMostrar {
+    font-size: 15px;
+    margin-top: 10px ;
+    color: white;
+    border: none;
+    background-color: rgb(88, 188, 228);
+    width: 70px;
+    height: 35px;
+    border-radius: 8px;
+    align-items: center;
+    outline: 0;
+}
+#bDeletar {
+    font-size: 15px;
+    margin-top: 10px;
+    color: white;
+    border: none;
+    background-color: rgb(242, 94, 255);
+    height: 35px;
+    border-radius: 8px;
+    align-items: center;
+    outline: 0;
+}
+
+#tNome {
+    font-size: 14px;
+    height: 20px;
+    border-radius: 8px;
+    outline: 0;
+    margin-bottom: 5px;
+    padding-left: 7px;
+}
+#tSobrenome {
+    font-size: 14px;
+    height: 20px;
+    border-radius: 8px;
+    outline: 0;
+    margin-bottom: 5px;
+    padding-left: 7px;
+}
+#tIdade {
+    font-size: 14px;
+    height: 20px;
+    border-radius: 8px;
+    outline: 0;
+    margin-bottom: 5px;
+    padding-left: 7px;
+}
+#tEmail {
+    font-size: 14px;
+    height: 20px;
+    border-radius: 8px;
+    outline: 0;
+    margin-bottom: 5px;
+    padding-left: 7px;
+}
