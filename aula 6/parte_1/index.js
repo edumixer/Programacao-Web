@@ -26,6 +26,10 @@ $(document).ready(function() {
         banco.setItem("dadosUsuarios", JSON.stringify(dados));
         //fLocalMostraDados();
         alert("Seu arquivo foi gravado!");
+        $("#tNome").val("");
+        $("#tSobrenome").val("");
+        $("#tIdade").val("");
+        $("#tEmail").val("");
     });
 
     $("#bMostrar").click(function() {
